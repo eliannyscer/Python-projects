@@ -3,6 +3,7 @@ from tkinter import *
 from PIL import Image,ImageTk
 from random import randint
 
+#testing
 #main window
 root= Tk()
 root.title("Rock-paper-scissors")
